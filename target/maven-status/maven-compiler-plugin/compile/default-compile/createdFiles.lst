@@ -1,0 +1,4 @@
+com\SmartEmailReply\SmartEmailReply\Controller\EmailGeneratorController.class
+com\SmartEmailReply\SmartEmailReply\Entity\EmailRequest.class
+com\SmartEmailReply\SmartEmailReply\Service\EmailGeneratorService.class
+com\SmartEmailReply\SmartEmailReply\SmartEmailReplyApplication.class
